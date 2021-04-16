@@ -65,6 +65,13 @@ Below are the types of documents that can be leveraged to verify user identity d
 |Military	               |Yes       |
 |Consular Identification |Yes       |
 
+For a full list of supported documents, please contact your solution advisor.
 
 ## Using the System
+
+Identity Proofing can be initiated in 2 different ways
+
+1. During Registration
+2. During the lifecycle of an active profile.
+
 ## Troubleshooting 
