@@ -21,7 +21,7 @@ IDProofing can be configured to leverage mobile carrier records or the combinati
 
 ## Before Using the System
 
-Before you begin using IDProofing, please ensure your use case is supported by confirming support below:
+Before you begin using IDProofing, please ensure your use case is supported by confirming below:
 
 
 ### Mobile Support
