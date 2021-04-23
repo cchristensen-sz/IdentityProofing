@@ -72,6 +72,9 @@ For a full list of supported documents, please contact your solution advisor.
 Identity Proofing can be initiated in 2 different ways
 
 1. During Registration
-2. During the lifecycle of an active profile.
+2. 
+3. During the lifecycle of an active profile
+
+Verification will always occur via interaction with one of the external collaboration portals (NEAccess).  
 
 ## Troubleshooting 
