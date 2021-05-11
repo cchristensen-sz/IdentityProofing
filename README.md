@@ -147,6 +147,7 @@ Each will be outlined below.
 
 - **Capture Seflie** by following on screen prompts.  **Click 'Capture Using Your Phone Camera'**. Once captured, if the image is acceptabale you will be redirected back to the browswer window where the ID Proofing process was initiated.
 <img src="https://github.com/cchristensen-sz/IdentityProofing/blob/1e64e168db0311151a92167f2bed709fddabf636/img/Selfie%20Start.png" width="30%"/>
+<img src="https://github.com/cchristensen-sz/IdentityProofing/blob/e592bc202b79c18b75e4e5478cadf1209ffd1d53/img/Selfie.pdf" width="30%"/>
 <img src="https://github.com/cchristensen-sz/IdentityProofing/blob/1e64e168db0311151a92167f2bed709fddabf636/img/Selfie%20Submit.png" width="30%"/>
 
 
