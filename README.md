@@ -116,12 +116,22 @@ Each will be outlined below.
 #### On Your Device
 
 - **Click on the link within the SMS message**
+<img src="https://github.com/cchristensen-sz/IdentityProofing/blob/1eca0f225fcb9eae2710d35c8e417cf7bbaebfb2/img/SMS.jpg" width="50%"/>
+
+
 
 - After reviewing directions **Click 'Start'**
+<img src="https://github.com/cchristensen-sz/IdentityProofing/blob/00becd908fb3607babebc5cb8ebe41b899fd02db/img/Begin%20capture%20process.png" width="50%"/>
+
+
 
 - Follow on screen prompts and **Click 'Capture Using Your Browser Camera'**
+<img src="https://github.com/cchristensen-sz/IdentityProofing/blob/848a7d5add8d1fda1dae36edfe3130373e61d927/img/Front%20ID%20Image.png" width="50%"/>
 
-- **Allow the application to access the camera**. The verification requires no special apps to be installed, but in order to successfully capture images of your ID and your selfie you will have to grant temporary access to the camera via your mobile browser.  
+
+- **Allow the application to access the camera**. The verification requires no special apps to be installed, but in order to successfully capture images of your ID and your selfie you will have to grant temporary access to the camera via your mobile browser.
+<img src="https://github.com/cchristensen-sz/IdentityProofing/blob/848a7d5add8d1fda1dae36edfe3130373e61d927/img/Allow%20Camera%20Access.jpg" width="50%"/>
+
 
 - **Capture Image**.  If you are using your drivers license or ID this will be the image of the front of your ID.  If you are using your passport this will be the imgage the photo page.  Follow on screen prompts to properly align the image and verify image meets requirements before submitting.  If your image does not meet one of the requirements please review the [Tips and Tricks](https://github.com/cchristensen-sz/IdentityProofing/blob/cac396a002e52069745c8147ce5fbf471945b1ac/img/tips_and_tricks.pdf) document and try again.  Once all requirements have been met, **Click 'Save and Next'**
 
