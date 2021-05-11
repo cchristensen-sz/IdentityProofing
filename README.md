@@ -138,8 +138,6 @@ Each will be outlined below.
 - **Capture Image**.  If you are using your drivers license or ID this will be the image of the front of your ID.  If you are using your passport this will be the imgage the photo page.  Follow on screen prompts to properly align the image and verify image meets requirements before submitting.  If your image does not meet one of the requirements please review the [Tips and Tricks](https://github.com/cchristensen-sz/IdentityProofing/blob/cac396a002e52069745c8147ce5fbf471945b1ac/img/tips_and_tricks.pdf) document and try again.  Once all requirements have been met, **Click 'Save and Next'**
 <img src="https://github.com/cchristensen-sz/IdentityProofing/blob/0b5c9132b7c0bf4eb5eff3fdd8bf766fa171059c/img/Front%20of%20ID.png" width="30%"/> 
 
-<img src="https://github.com/cchristensen-sz/IdentityProofing/blob/0b5c9132b7c0bf4eb5eff3fdd8bf766fa171059c/img/Front%20of%20ID.png" width="30%"/>
-
 
 - If you used an ID or a drivers license, you will now begin the process of capturing the image of the back of the document. **CLick on 'Capture Using Your Browser Camera'** to take the second photo.
 <img src="https://github.com/cchristensen-sz/IdentityProofing/blob/38de26c7dace4fa4754aff8db93700bd35399abe/img/Back%20of%20ID%20start.png" width="30%"/>
