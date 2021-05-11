@@ -161,6 +161,8 @@ Each will be outlined below.
 ### Mobile Match fail over to Government ID Verification
 
 ## Troubleshooting 
-
+If you run into challenges, the following should be attempted before contacting support:
+- Ensure you have sufficient service
+- Ensure your use case meets requirements listed 
 
 
