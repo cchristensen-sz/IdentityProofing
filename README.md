@@ -73,9 +73,13 @@ Below are the types of documents that can be leveraged to verify user identity d
 
 Identity Proofing will either be initiated as part of an onboarding workflow or you will be contacted to verify your identity by the organization that holds your profile.  Either way, you will be directed to a page within SecZetta where you will select to begin the identity proofing process.
 
+Select **Verify My Identity**
+
 ![Initiation of IDProofing](https://github.com/cchristensen-sz/IdentityProofing/blob/7b3c648bf42f18fc5171922b5a2c8f0cb0e45e47/img/Screen%20Shot%202021-05-10%20at%208.41.38%20PM.png)
 
-![Country Select](
+Select your country
+
+![Country Select](https://github.com/cchristensen-sz/IdentityProofing/blob/main/img/Screen%20Shot%202021-05-10%20at%208.41.59%20PM.png)
 
   
 There are 3 potential flows that you may encounter once beginning the verification process:
