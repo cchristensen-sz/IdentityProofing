@@ -151,7 +151,7 @@ Each will be outlined below.
 - **Capture Seflie** by following on screen prompts.  **Click 'Capture Using Your Phone Camera'**. Once captured, if the image is acceptabale you will be redirected back to the browswer window where the ID Proofing process was initiated.
 <img src="https://github.com/cchristensen-sz/IdentityProofing/blob/1e64e168db0311151a92167f2bed709fddabf636/img/Selfie%20Start.png" width="30%"/>
 
-- SMILE!
+- Smile!
 
 <img src="https://github.com/cchristensen-sz/IdentityProofing/blob/ebf63167829f016ac82e3d0075da6277a1a077ac/img/Selfie.png" width="30%"/>
 
@@ -169,6 +169,7 @@ Each will be outlined below.
 -  If you are US based, you will proceed to the [Mobile Match workflow](https://github.com/cchristensen-sz/IdentityProofing#mobile-match).
 -  If you pass the mobile match workflow, your verification is complete
 -  If SecZetta is unable to verify your identity via Mobile Match you will proceed to the [Government ID Verification workflow](https://github.com/cchristensen-sz/IdentityProofing#government-id-verification)
+-  Once completed you will be returned to the browser you inititated proofing from and your results will be displayed.  Should there be additional steps, you will receive direction at that time.
 
 ## Troubleshooting 
 If you run into challenges, the following should be attempted before contacting support:
