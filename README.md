@@ -159,6 +159,9 @@ Each will be outlined below.
 
 <img src="https://github.com/cchristensen-sz/IdentityProofing/blob/1e64e168db0311151a92167f2bed709fddabf636/img/Selfie%20Submit.png" width="30%"/>
 
+- Ensure that you see the results from your proofing activity, and then you're all set!
+
+<img src="https://github.com/cchristensen-sz/IdentityProofing/blob/b4dd27657f7be4a75696ee6855fee44bf285469f/img/Proofing%20completion%20.png" width="30%"/>
 
 ### Mobile Match fail over to Government ID Verification
 
