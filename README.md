@@ -141,13 +141,20 @@ Each will be outlined below.
 
 - If you used an ID or a drivers license, you will now begin the process of capturing the image of the back of the document. **CLick on 'Capture Using Your Browser Camera'** to take the second photo.
 <img src="https://github.com/cchristensen-sz/IdentityProofing/blob/38de26c7dace4fa4754aff8db93700bd35399abe/img/Back%20of%20ID%20start.png" width="30%"/>
+- Capture the image with on screen guidance
 <img src="https://github.com/cchristensen-sz/IdentityProofing/blob/38de26c7dace4fa4754aff8db93700bd35399abe/img/Back%20of%20ID%20Submit.png" width="30%"/>
 
 - Once an acceptable image has been captured, **Click 'Save and Next'**
 
 - **Capture Seflie** by following on screen prompts.  **Click 'Capture Using Your Phone Camera'**. Once captured, if the image is acceptabale you will be redirected back to the browswer window where the ID Proofing process was initiated.
 <img src="https://github.com/cchristensen-sz/IdentityProofing/blob/1e64e168db0311151a92167f2bed709fddabf636/img/Selfie%20Start.png" width="30%"/>
+
+- SMILE!
+
 <img src="https://github.com/cchristensen-sz/IdentityProofing/blob/ebf63167829f016ac82e3d0075da6277a1a077ac/img/Selfie.png" width="30%"/>
+
+-Once you submit your images and see this screen you can pick up the process in your original browser window.
+
 <img src="https://github.com/cchristensen-sz/IdentityProofing/blob/1e64e168db0311151a92167f2bed709fddabf636/img/Selfie%20Submit.png" width="30%"/>
 
 
