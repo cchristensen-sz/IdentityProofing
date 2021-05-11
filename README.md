@@ -73,12 +73,14 @@ Below are the types of documents that can be leveraged to verify user identity d
 
 Identity Proofing will either be initiated as part of an onboarding workflow or you will be contacted to verify your identity by the organization that holds your profile.  Either way, you will be directed to a page within SecZetta where you will select to begin the identity proofing process.
 
+#### In the browswer
+
 - **Click 'Verify My Identity'**
 <img src="https://github.com/cchristensen-sz/IdentityProofing/blob/81b5395408fbbc092960212754532fce123a2391/img/Screen%20Shot%202021-05-10%20at%208.41.38%20PM.png" width="80%"/>
 
 
 
-- Select your country
+- **Select your country**
 
 <img src="https://github.com/cchristensen-sz/IdentityProofing/blob/ea442120a1cf09dfb35cfcd1175db7e312d753e9/img/Screen%20Shot%202021-05-10%20at%208.41.59%20PM.png" width="50%"/>
 
@@ -121,7 +123,7 @@ Each will be outlined below.
 
 
 - After reviewing directions **Click 'Start'**
-<img src="https://github.com/cchristensen-sz/IdentityProofing/blob/00becd908fb3607babebc5cb8ebe41b899fd02db/img/Begin%20capture%20process.png" width="50%"/>
+<img src="https://github.com/cchristensen-sz/IdentityProofing/blob/00becd908fb3607babebc5cb8ebe41b899fd02db/img/Begin%20capture%20process.png" width="30%"/>
 
 
 
@@ -134,8 +136,12 @@ Each will be outlined below.
 
 
 - **Capture Image**.  If you are using your drivers license or ID this will be the image of the front of your ID.  If you are using your passport this will be the imgage the photo page.  Follow on screen prompts to properly align the image and verify image meets requirements before submitting.  If your image does not meet one of the requirements please review the [Tips and Tricks](https://github.com/cchristensen-sz/IdentityProofing/blob/cac396a002e52069745c8147ce5fbf471945b1ac/img/tips_and_tricks.pdf) document and try again.  Once all requirements have been met, **Click 'Save and Next'**
+<img src="https://github.com/cchristensen-sz/IdentityProofing/blob/0b5c9132b7c0bf4eb5eff3fdd8bf766fa171059c/img/Front%20of%20ID.png" width="50%"/>
+
 
 - If you used an ID or a drivers license, you will now begin the process of capturing the image of the back of the document. **CLick on 'Capture Using Your Browser Camera'** to take the second photo.
+<img src="https://github.com/cchristensen-sz/IdentityProofing/blob/0b5c9132b7c0bf4eb5eff3fdd8bf766fa171059c/img/Front%20of%20ID.png" width="50%"/>
+
 
 - Once an acceptable image has been captured, **Click 'Save and Next'**
 
