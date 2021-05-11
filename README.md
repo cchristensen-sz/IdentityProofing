@@ -166,7 +166,7 @@ Each will be outlined below.
 ### Mobile Match fail over to Government ID Verification
 - This workflow is a combination of Mobile Match and Government ID Verification.  You will:
 -  **Select Your Country**
--  If you are US based, you will proceed to the [Mobile Match workflow] (.
+-  If you are US based, you will proceed to the [Mobile Match workflow](https://github.com/cchristensen-sz/IdentityProofing#mobile-match).
 -  If you successfully verify your identity 
 
 ## Troubleshooting 
