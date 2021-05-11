@@ -141,7 +141,9 @@ Each will be outlined below.
 
 - If you used an ID or a drivers license, you will now begin the process of capturing the image of the back of the document. **CLick on 'Capture Using Your Browser Camera'** to take the second photo.
 <img src="https://github.com/cchristensen-sz/IdentityProofing/blob/38de26c7dace4fa4754aff8db93700bd35399abe/img/Back%20of%20ID%20start.png" width="30%"/>
+
 - Capture the image with on screen guidance
+
 <img src="https://github.com/cchristensen-sz/IdentityProofing/blob/38de26c7dace4fa4754aff8db93700bd35399abe/img/Back%20of%20ID%20Submit.png" width="30%"/>
 
 - Once an acceptable image has been captured, **Click 'Save and Next'**
