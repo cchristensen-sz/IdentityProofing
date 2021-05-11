@@ -129,7 +129,7 @@ Each will be outlined below.
 
 - Once an acceptable image has been captured, **Click 'Save and Next'**
 
-- **Capture Seflie** by following on screen prompts.  **Click 'Capture Using Your Phone Camera**. If the image is acceptabale you will be redirected back to the browswer window where the ID Proofing process was initiated.
+- **Capture Seflie** by following on screen prompts.  **Click 'Capture Using Your Phone Camera'**. Once captured, if the image is acceptabale you will be redirected back to the browswer window where the ID Proofing process was initiated.
 
 
 
