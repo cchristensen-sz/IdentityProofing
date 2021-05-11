@@ -106,7 +106,6 @@ When you are redirected to your phone, **DO NOT** close your browser window.  Yo
 
 <img src="https://github.com/cchristensen-sz/IdentityProofing/blob/c79fbe9e78f6722b24b6fb8d6c222c036454c346/img/Screen%20Shot%202021-05-10%20at%208.43.14%20PM.png" width="50%"/>
 
-
 ### Mobile Match fail over to Government ID Verification
 
 ## Troubleshooting 
