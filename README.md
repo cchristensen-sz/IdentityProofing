@@ -76,13 +76,13 @@ Identity Proofing will either be initiated as part of an onboarding workflow or 
 #### In the browswer
 
 - **Click 'Verify My Identity'**
-<img src="https://github.com/cchristensen-sz/IdentityProofing/blob/81b5395408fbbc092960212754532fce123a2391/img/Screen%20Shot%202021-05-10%20at%208.41.38%20PM.png" width="80%"/>
+<img src="https://github.com/cchristensen-sz/IdentityProofing/blob/81b5395408fbbc092960212754532fce123a2391/img/Screen%20Shot%202021-05-10%20at%208.41.38%20PM.png" width="50%"/>
 
 
 
 - **Select your country**
 
-<img src="https://github.com/cchristensen-sz/IdentityProofing/blob/ea442120a1cf09dfb35cfcd1175db7e312d753e9/img/Screen%20Shot%202021-05-10%20at%208.41.59%20PM.png" width="50%"/>
+<img src="https://github.com/cchristensen-sz/IdentityProofing/blob/ea442120a1cf09dfb35cfcd1175db7e312d753e9/img/Screen%20Shot%202021-05-10%20at%208.41.59%20PM.png" width="30%"/>
 
 
 
@@ -100,25 +100,25 @@ Each will be outlined below.
 
 - **Select the type of identification** that you'd like to use during the verification process
 
-<img src="https://github.com/cchristensen-sz/IdentityProofing/blob/c79fbe9e78f6722b24b6fb8d6c222c036454c346/img/Screen%20Shot%202021-05-10%20at%208.42.26%20PM.png" width="50%"/>
+<img src="https://github.com/cchristensen-sz/IdentityProofing/blob/c79fbe9e78f6722b24b6fb8d6c222c036454c346/img/Screen%20Shot%202021-05-10%20at%208.42.26%20PM.png" width="30%"/>
 
 
 
 - **Enter the mobile number** where you wish to receive the SMS notification for continuing with the image capture process
 
-<img src="https://github.com/cchristensen-sz/IdentityProofing/blob/c79fbe9e78f6722b24b6fb8d6c222c036454c346/img/Screen%20Shot%202021-05-10%20at%208.42.54%20PM.png" width="50%"/>
+<img src="https://github.com/cchristensen-sz/IdentityProofing/blob/c79fbe9e78f6722b24b6fb8d6c222c036454c346/img/Screen%20Shot%202021-05-10%20at%208.42.54%20PM.png" width="30%"/>
 
 
 
 - When you are redirected to your phone, **DO NOT** close your browser window.  You will come back here to complete the verification.
 
-<img src="https://github.com/cchristensen-sz/IdentityProofing/blob/c79fbe9e78f6722b24b6fb8d6c222c036454c346/img/Screen%20Shot%202021-05-10%20at%208.43.14%20PM.png" width="50%"/>
+<img src="https://github.com/cchristensen-sz/IdentityProofing/blob/c79fbe9e78f6722b24b6fb8d6c222c036454c346/img/Screen%20Shot%202021-05-10%20at%208.43.14%20PM.png" width="30%"/>
 
 
 #### On Your Device
 
 - **Click on the link within the SMS message**
-<img src="https://github.com/cchristensen-sz/IdentityProofing/blob/1eca0f225fcb9eae2710d35c8e417cf7bbaebfb2/img/SMS.jpg" width="50%"/>
+<img src="https://github.com/cchristensen-sz/IdentityProofing/blob/1eca0f225fcb9eae2710d35c8e417cf7bbaebfb2/img/SMS.jpg" width="30%"/>
 
 
 
@@ -128,20 +128,20 @@ Each will be outlined below.
 
 
 - Follow on screen prompts and **Click 'Capture Using Your Browser Camera'**
-<img src="https://github.com/cchristensen-sz/IdentityProofing/blob/848a7d5add8d1fda1dae36edfe3130373e61d927/img/Front%20ID%20Image.png" width="50%"/>
+<img src="https://github.com/cchristensen-sz/IdentityProofing/blob/848a7d5add8d1fda1dae36edfe3130373e61d927/img/Front%20ID%20Image.png" width="30%"/>
 
 
 - **Allow the application to access the camera**. The verification requires no special apps to be installed, but in order to successfully capture images of your ID and your selfie you will have to grant temporary access to the camera via your mobile browser.
-<img src="https://github.com/cchristensen-sz/IdentityProofing/blob/848a7d5add8d1fda1dae36edfe3130373e61d927/img/Allow%20Camera%20Access.jpg" width="50%"/>
+<img src="https://github.com/cchristensen-sz/IdentityProofing/blob/848a7d5add8d1fda1dae36edfe3130373e61d927/img/Allow%20Camera%20Access.jpg" width="30%"/>
 
 
 - **Capture Image**.  If you are using your drivers license or ID this will be the image of the front of your ID.  If you are using your passport this will be the imgage the photo page.  Follow on screen prompts to properly align the image and verify image meets requirements before submitting.  If your image does not meet one of the requirements please review the [Tips and Tricks](https://github.com/cchristensen-sz/IdentityProofing/blob/cac396a002e52069745c8147ce5fbf471945b1ac/img/tips_and_tricks.pdf) document and try again.  Once all requirements have been met, **Click 'Save and Next'**
-<img src="https://github.com/cchristensen-sz/IdentityProofing/blob/0b5c9132b7c0bf4eb5eff3fdd8bf766fa171059c/img/Front%20of%20ID.png" width="50%"/>
+<img src="https://github.com/cchristensen-sz/IdentityProofing/blob/0b5c9132b7c0bf4eb5eff3fdd8bf766fa171059c/img/Front%20of%20ID.png" width="30%"/> <img src="https://github.com/cchristensen-sz/IdentityProofing/blob/0b5c9132b7c0bf4eb5eff3fdd8bf766fa171059c/img/Front%20of%20ID.png" width="30%"/>
 
 
 - If you used an ID or a drivers license, you will now begin the process of capturing the image of the back of the document. **CLick on 'Capture Using Your Browser Camera'** to take the second photo.
-<img src="https://github.com/cchristensen-sz/IdentityProofing/blob/0b5c9132b7c0bf4eb5eff3fdd8bf766fa171059c/img/Front%20of%20ID.png" width="50%"/>
-
+<img src="https://github.com/cchristensen-sz/IdentityProofing/blob/38de26c7dace4fa4754aff8db93700bd35399abe/img/Back%20of%20ID%20start.png" width="30%"/>
+<img src="https://github.com/cchristensen-sz/IdentityProofing/blob/38de26c7dace4fa4754aff8db93700bd35399abe/img/Back%20of%20ID%20Submit.png" width="30%"/>
 
 - Once an acceptable image has been captured, **Click 'Save and Next'**
 
