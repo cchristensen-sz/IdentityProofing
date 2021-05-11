@@ -104,7 +104,7 @@ Enter the mobile number where you wish to receive the SMS notification for conti
 
 When you are redirected to your phone, **DO NOT** close your browser window.  You will come back here to complete the verification.
 
-<img src="https://github.com/cchristensen-sz/IdentityProofing/blob/c79fbe9e78f6722b24b6fb8d6c222c036454c346/img/Screen%20Shot%202021-05-10%20at%208.42.54%20PM.png" width="50%"/>
+<img src="https://github.com/cchristensen-sz/IdentityProofing/blob/c79fbe9e78f6722b24b6fb8d6c222c036454c346/img/Screen%20Shot%202021-05-10%20at%208.43.14%20PM.png" width="50%"/>
 
 
 ### Mobile Match fail over to Government ID Verification
