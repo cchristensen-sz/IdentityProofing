@@ -153,7 +153,7 @@ Each will be outlined below.
 
 <img src="https://github.com/cchristensen-sz/IdentityProofing/blob/ebf63167829f016ac82e3d0075da6277a1a077ac/img/Selfie.png" width="30%"/>
 
--Once you submit your images and see this screen you can pick up the process in your original browser window.
+- Once you submit your images and see this screen you can pick up the process in your original browser window.
 
 <img src="https://github.com/cchristensen-sz/IdentityProofing/blob/1e64e168db0311151a92167f2bed709fddabf636/img/Selfie%20Submit.png" width="30%"/>
 
