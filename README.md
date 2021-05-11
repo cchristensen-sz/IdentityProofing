@@ -75,7 +75,7 @@ Identity Proofing will either be initiated as part of an onboarding workflow or 
 
 Select **Verify My Identity**
 
-![Initiation of IDProofing](https://github.com/cchristensen-sz/IdentityProofing/blob/7b3c648bf42f18fc5171922b5a2c8f0cb0e45e47/img/Screen%20Shot%202021-05-10%20at%208.41.38%20PM.png)
+<img src="https://github.com/cchristensen-sz/IdentityProofing/blob/81b5395408fbbc092960212754532fce123a2391/img/Screen%20Shot%202021-05-10%20at%208.41.38%20PM.png" width="80%"/>
 
 Select your country
 
