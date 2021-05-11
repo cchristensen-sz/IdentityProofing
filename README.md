@@ -23,7 +23,7 @@ IDProofing can be configured to leverage mobile carrier records or the combinati
 
 There are two available methods of ID Proofing withing SecZetta: **Mobile Match** and **Government ID Verification**. Before you begin using IDProofing, please ensure you understand which way you'll be asked to verify your identity and ensure you'll be able to meet system requirements below: 
 
-### SMS Cabable Device 
+### SMS Cabable Device - Mobile Match and Government ID Verification
 You will need to be able to receive SMS messages so you will need to have a device capable of receipt and enough service to receive.
 
 ### Mobile Support - Government ID Verification
@@ -82,7 +82,7 @@ Select your country
 <img src="https://github.com/cchristensen-sz/IdentityProofing/blob/ea442120a1cf09dfb35cfcd1175db7e312d753e9/img/Screen%20Shot%202021-05-10%20at%208.41.59%20PM.png" width="50%"/>
 
   
-There are 3 potential flows that you may encounter once beginning the verification process:
+At this point there are 3 potential verification processes that you may encounter:
 
 1. Mobile Match
 2. Government ID Verification
@@ -93,6 +93,19 @@ Each will be outlined below.
 ### Mobile Match
 
 ### Government ID Verification
+
+Select the type of identification that you'd like to use during the verification process
+
+<img src="https://github.com/cchristensen-sz/IdentityProofing/blob/c79fbe9e78f6722b24b6fb8d6c222c036454c346/img/Screen%20Shot%202021-05-10%20at%208.42.26%20PM.png" width="50%"/>
+
+Enter the mobile number where you wish to receive the SMS notification for continuing with the image capture process
+
+<img src="https://github.com/cchristensen-sz/IdentityProofing/blob/c79fbe9e78f6722b24b6fb8d6c222c036454c346/img/Screen%20Shot%202021-05-10%20at%208.42.54%20PM.png" width="50%"/>
+
+When you are redirected to your phone, **DO NOT** close your browser window.  You will come back here to complete the verification.
+
+<img src="https://github.com/cchristensen-sz/IdentityProofing/blob/c79fbe9e78f6722b24b6fb8d6c222c036454c346/img/Screen%20Shot%202021-05-10%20at%208.42.54%20PM.png" width="50%"/>
+
 
 ### Mobile Match fail over to Government ID Verification
 
