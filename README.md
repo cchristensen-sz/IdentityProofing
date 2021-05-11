@@ -24,8 +24,7 @@ IDProofing can be configured to leverage mobile carrier records or the combinati
 There are two available methods of ID Proofing withing SecZetta: **Mobile Match** and **Government ID Verification**. Before you begin using IDProofing, please ensure you understand which way you'll be asked to verify your identity and ensure you'll be able to meet system requirements below: 
 
 ### SMS Cabable Device 
-You will need to confirm receipt of a one time passcode (OTP) that will be sent via SMS.
-
+You will need to be able to receive SMS messages so you will need to have a device capable of receipt and enough service to receive.
 
 ### Mobile Support - Government ID Verification
 
@@ -75,6 +74,8 @@ Below are the types of documents that can be leveraged to verify user identity d
 Identity Proofing will either be initiated as part of an onboarding workflow or you will be contacted to verify your identity by the organization that holds your profile.  Either way, you will be directed to a page within SecZetta where you will select to begin the identity proofing process.
 
 ![Initiation of IDProofing](https://github.com/cchristensen-sz/IdentityProofing/blob/7b3c648bf42f18fc5171922b5a2c8f0cb0e45e47/img/Screen%20Shot%202021-05-10%20at%208.41.38%20PM.png)
+
+![Country Select](
 
   
 There are 3 potential flows that you may encounter once beginning the verification process:
