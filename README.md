@@ -96,13 +96,13 @@ Each will be outlined below.
 
 ### Government ID Verification
 
-- Select the type of identification that you'd like to use during the verification process
+- **Select the type of identification** that you'd like to use during the verification process
 
 <img src="https://github.com/cchristensen-sz/IdentityProofing/blob/c79fbe9e78f6722b24b6fb8d6c222c036454c346/img/Screen%20Shot%202021-05-10%20at%208.42.26%20PM.png" width="50%"/>
 
 
 
-- Enter the mobile number where you wish to receive the SMS notification for continuing with the image capture process
+- **Enter the mobile number** where you wish to receive the SMS notification for continuing with the image capture process
 
 <img src="https://github.com/cchristensen-sz/IdentityProofing/blob/c79fbe9e78f6722b24b6fb8d6c222c036454c346/img/Screen%20Shot%202021-05-10%20at%208.42.54%20PM.png" width="50%"/>
 
@@ -111,6 +111,20 @@ Each will be outlined below.
 - When you are redirected to your phone, **DO NOT** close your browser window.  You will come back here to complete the verification.
 
 <img src="https://github.com/cchristensen-sz/IdentityProofing/blob/c79fbe9e78f6722b24b6fb8d6c222c036454c346/img/Screen%20Shot%202021-05-10%20at%208.43.14%20PM.png" width="50%"/>
+
+
+#### On Your Device
+
+- **Click on the link within the SMS message**
+
+- After reviewing directions **Click Start**
+
+- Follow on screen prompts and **Click Capture Using Your Browser Camera**
+
+- **Allow the application to access the camera**. The verification requires no special apps to be installed, but in order to successfully capture images of your ID and your selfie you will have to grant temporary access to the camera via your mobile browser.  
+
+- **Capture Image**.  If you are using your drivers license or ID this will be the image of the front of your ID.  If you are using your passport this will be the imgage the photo page.  Follow on screen prompts to properly align the image and verify image meets requirements before submitting.  If your image does not meet one of the requirements please review the [Tips and Tricks][1] document and try again.
+[1]: <https://github.com/cchristensen-sz/IdentityProofing/blob/cac396a002e52069745c8147ce5fbf471945b1ac/img/tips_and_tricks.pdf>
 
 ### Mobile Match fail over to Government ID Verification
 
