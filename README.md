@@ -21,12 +21,15 @@ IDProofing can be configured to leverage mobile carrier records or the combinati
 
 ## Before Using the System
 
-Before you begin using IDProofing, please ensure your use case is supported by confirming below:
+There are two available methods of ID Proofing withing SecZetta: **Mobile Match** and **Government ID Verification**. Before you begin using IDProofing, please ensure you understand which way you'll be asked to verify your identity and ensure you'll be able to meet system requirements below: 
+
+### SMS Cabable Device 
+You will need to confirm receipt of a one time passcode (OTP) that will be sent via SMS.
 
 
-### Mobile Support
+### Mobile Support - Government ID Verification
 
-Mobile support does not require a special application.  You will need a device that has the ability to receive an SMS message, and access to a mobile browser.  Please see below for further details:
+Mobile support does not require a special application.  You will need a mobile device with a camera, and access to a mobile browser.  Please see below for further details on compatibility:
 
 |Device Type |OS Version            |Release Date  |
 |:-----------|:---------------------|--------------|
@@ -34,7 +37,7 @@ Mobile support does not require a special application.  You will need a device t
 |iOS	       |12.0 or newer         |September 2018|
 
 
-### Recommended Browsers
+### Recommended Browsers - Government ID Verification
 
 |Device Type |Recommended Browser|
 |:-----------|-------------------|
@@ -42,7 +45,8 @@ Mobile support does not require a special application.  You will need a device t
 |iOS		     |Safari             |
 
 
-### Supported Document Types
+### Supported Document Types - Government ID Verification
+
 Below are the types of documents that can be leveraged to verify user identity details with the Government ID flow.  This service works for roughly 200 countries and 5000 specific types of documents. 
 
 |Document Type           |Supported?|
@@ -65,16 +69,28 @@ Below are the types of documents that can be leveraged to verify user identity d
 |Military	               |Yes       |
 |Consular Identification |Yes       |
 
-For a full list of supported documents, please contact your solution advisor.
 
 ## Using the System
 
-Identity Proofing can be initiated in 2 different ways
+Identity Proofing will either be initiated as part of an onboarding workflow or you will be contacted to verify your identity by the organization that holds your profile.  Either way, you will be directed to a page within SecZetta where you will select to begin the identity proofing process.
 
-1. During Registration
-2. 
-3. During the lifecycle of an active profile
+<INSERT IMAGE OF BEGIN ID PROOFING>
+  
+There are 3 potential flows that you may encounter once beginning the verification process:
 
-Verification will always occur via interaction with one of the external collaboration portals (NEAccess).  
+1. Mobile Match
+2. Government ID Verification
+3. Mobile Match fail over to Government ID Verification
+
+Each will be outlined below.
+
+### Mobile Match
+
+### Government ID Verification
+
+### Mobile Match fail over to Government ID Verification
 
 ## Troubleshooting 
+
+
+
