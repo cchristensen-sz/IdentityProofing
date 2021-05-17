@@ -169,7 +169,7 @@ Each will be outlined below.
 -  If you are US based, you will proceed to the [Mobile Match workflow](https://github.com/cchristensen-sz/IdentityProofing#mobile-match).
 -  If you pass the mobile match workflow, your verification is complete
 -  If SecZetta is unable to verify your identity via Mobile Match you will proceed to the [Government ID Verification workflow](https://github.com/cchristensen-sz/IdentityProofing#government-id-verification)
--  Once completed you will be returned to the browser you inititated proofing from and your results will be displayed.  Should there be additional steps, you will receive direction at that time.
+-  Once completed, you will be returned to the browser you inititated proofing from and your results will be displayed.
 
 ## Troubleshooting 
 If you run into challenges, the following should be attempted before contacting support:
