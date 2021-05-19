@@ -4,24 +4,24 @@
 
 As enterprise organizations increasingly grant access to facilities, data, and systems to an ever-expanding number of third-party users, it becomes imperative for them to prove that these people are in fact who they claim to be.  
 
-### IDProofing
+### Identity Proofing
 
-With SecZetta’s IDProofing it’s possible to easily invoke large scale or individual identity verification during the onboarding process or at any time throughout the identity lifecycle. 
+With SecZetta’s Identity Proofing it’s possible to easily invoke large scale or individual identity verification during the onboarding process or at any time throughout the identity lifecycle. 
 
 ### Goal of the Document
 
-This document is designed to familiarize users with IDProofing features and functionality.
+This document is designed to familiarize users with Identity Proofing features and functionality.
 
 
 ## Understanding the Tool
 
-IDProofing can be configured to leverage mobile carrier records or the combination of a government issued photo ID (see below) and a live selfie to confirm that users are who they claim to be.  When enabled, IDProofing shows as an action within the Third-Party Identity Risk workflow engine.  A user may be prompted to prove their identity during onboarding or at any point during their lifecycle.  
+Identity Proofing can be configured to leverage mobile carrier records and/or the combination of a government issued photo ID (see below) and a live selfie to confirm that users are who they claim to be.  A user may be prompted to prove their identity during onboarding or at any point during their lifecycle.  
 
 
 
 ## Before Using the System
 
-There are two available methods of ID Proofing withing SecZetta: **Mobile Match** and **Government ID Verification**. Before you begin using IDProofing, please ensure you understand which way you'll be asked to verify your identity and ensure you'll be able to meet system requirements below: 
+There are two available methods of Identity Proofing withing SecZetta: **Mobile Match** and **Government ID Verification**. Before you begin using Identity Proofing, please ensure you understand which way you'll be asked to verify your identity and ensure you'll be able to meet system requirements below: 
 
 ### SMS Cabable Device - Mobile Match and Government ID Verification
 You will need to be able to receive SMS messages so you will need to have a device capable of receipt and enough service to receive.
