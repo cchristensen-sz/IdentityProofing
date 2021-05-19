@@ -1,3 +1,24 @@
+- [Identity Proofing User Guide](#identity-proofing-user-guide)
+  * [SecZetta Identity Proofing](#seczetta-identity-proofing)
+    + [Identity Proofing](#identity-proofing)
+    + [Goal of the Document](#goal-of-the-document)
+  * [Understanding the Tool](#understanding-the-tool)
+  * [Before Using the System](#before-using-the-system)
+    + [SMS Cabable Device - Mobile Match and Government ID Verification](#sms-cabable-device---mobile-match-and-government-id-verification)
+    + [Mobile Support - Government ID Verification](#mobile-support---government-id-verification)
+    + [Recommended Browsers - Government ID Verification](#recommended-browsers---government-id-verification)
+    + [Supported Document Types - Government ID Verification](#supported-document-types---government-id-verification)
+  * [Using the System](#using-the-system)
+      - [In the browswer](#in-the-browswer)
+    + [Mobile Match](#mobile-match)
+    + [Government ID Verification](#government-id-verification)
+      - [On Your Device](#on-your-device)
+    + [Mobile Match fail over to Government ID Verification](#mobile-match-fail-over-to-government-id-verification)
+  * [Troubleshooting](#troubleshooting)
+
+<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
+
+
 # Identity Proofing User Guide
 
 ## SecZetta Identity Proofing
