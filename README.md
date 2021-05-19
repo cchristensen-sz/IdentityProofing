@@ -9,7 +9,7 @@
     + [Recommended Browsers - Government ID Verification](#recommended-browsers---government-id-verification)
     + [Supported Document Types - Government ID Verification](#supported-document-types---government-id-verification)
   * [Using the System](#using-the-system)
-      - [In the browswer](#in-the-browswer)
+      - [In the browser](#in-the-browswer)
     + [Mobile Match](#mobile-match)
     + [Government ID Verification](#government-id-verification)
       - [On Your Device](#on-your-device)
