@@ -96,6 +96,41 @@ Each will be outlined below.
 
 ### Mobile Match
 
+- **Enter your mobile phone number and home address** and then **click on Confirm Information**
+
+<img src="https://github.com/cchristensen-sz/IdentityProofing/blob/d4b40be586fda0346f7c73c55c27902b125a8096/img/Enter%20Address%20and%20Phone.png" width="30%"/>
+
+
+
+- **Select SMS or Voice** for your preferred method to receive a one time PIN
+
+<img src="https://github.com/cchristensen-sz/IdentityProofing/blob/d4b40be586fda0346f7c73c55c27902b125a8096/img/PIN%20Delivery%20Method.jpg" width="30%"/>
+
+
+
+- If you selected to receive your PIN via SMS, go to your messages on your mobile device and **find the SMS containing your PIN** 
+
+<img src="https://github.com/cchristensen-sz/IdentityProofing/blob/d4b40be586fda0346f7c73c55c27902b125a8096/img/SMS.jpg" width="30%"/>
+
+
+
+**OR**
+
+
+- If you selected to receive your PIN via Voice, you'll want to answer your phone and **note the PIN as it is read to you on the call**
+
+<img src="https://github.com/cchristensen-sz/IdentityProofing/blob/d4b40be586fda0346f7c73c55c27902b125a8096/img/PIN%20on%20Device.png" width="30%"/>
+
+
+
+- **Enter your PIN** and then **click on Confirm Information**
+
+<img src="https://github.com/cchristensen-sz/IdentityProofing/blob/d4b40be586fda0346f7c73c55c27902b125a8096/img/Confirm%20PIN.png" width="30%"/>
+
+- You will now be redirected via the browser to **view your Identity Verification results**.
+
+
+
 ### Government ID Verification
 
 - **Select the type of identification** that you'd like to use during the verification process
@@ -104,7 +139,7 @@ Each will be outlined below.
 
 
 
-- **Enter the mobile number** where you wish to receive the SMS notification for continuing with the image capture process
+- **Enter your mobile number** where you wish to receive the SMS notification for continuing with the image capture process
 
 <img src="https://github.com/cchristensen-sz/IdentityProofing/blob/c79fbe9e78f6722b24b6fb8d6c222c036454c346/img/Screen%20Shot%202021-05-10%20at%208.42.54%20PM.png" width="30%"/>
 
@@ -169,6 +204,7 @@ Each will be outlined below.
 -  If you are US based, you will proceed to the [Mobile Match workflow](https://github.com/cchristensen-sz/IdentityProofing#mobile-match).
 -  If you pass the mobile match workflow, your verification is complete
 -  If SecZetta is unable to verify your identity via Mobile Match you will proceed to the [Government ID Verification workflow](https://github.com/cchristensen-sz/IdentityProofing#government-id-verification)
+<img src="https://github.com/cchristensen-sz/IdentityProofing/blob/d4b40be586fda0346f7c73c55c27902b125a8096/img/Unable%20to%20prove%20your%20Identity.png" width="30%"/>
 -  Once completed, you will be returned to the browser you inititated proofing from and your results will be displayed.
 
 ## Troubleshooting 
