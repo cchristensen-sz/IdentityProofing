@@ -227,11 +227,17 @@ Each will be outlined below.
 -  Once completed, you will be returned to the browser you inititated proofing from and your results will be displayed.
 
 ## Troubleshooting 
+
 If you run into challenges, the following should be attempted before contacting support:
+
 - Ensure you have sufficient service
+
 - Ensure your use case meets requirements listed [HERE](https://github.com/cchristensen-sz/IdentityProofing/blob/main/README.md#before-using-the-system)
+
 - For challenges during the Government ID Verification process please reference this [Tips and Tricks](https://github.com/cchristensen-sz/IdentityProofing/blob/cac396a002e52069745c8147ce5fbf471945b1ac/img/tips_and_tricks.pdf) document.
+
 - Ensure you have sufficient battery on your device or that you are plugged in.
+
 - Close other open mobile browser windows.
 
 
