@@ -140,8 +140,6 @@ Each will be outlined below.
 
 - If you selected to receive your PIN via Voice, you'll want to answer your phone and **note the PIN as it is read to you on the call**
 
-<img src="https://github.com/cchristensen-sz/IdentityProofing/blob/d4b40be586fda0346f7c73c55c27902b125a8096/img/PIN%20on%20Device.png" width="30%"/>
-
 
 
 - **Enter your PIN** and then **click on Confirm Information**
