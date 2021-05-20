@@ -44,7 +44,7 @@ Identity Proofing can be configured to leverage mobile carrier records and/or th
 
 There are two available methods of Identity Proofing withing SecZetta: **Mobile Match** and **Government ID Verification**. Before you begin using Identity Proofing, please ensure you understand which way you'll be asked to verify your identity and ensure you'll be able to meet system requirements below: 
 
-### SMS Cabable Device - Mobile Match and Government ID Verification
+### SMS Capable Device - Mobile Match and Government ID Verification
 You will need to be able to receive SMS messages so you will need to have a device capable of receipt and enough service to receive.
 
 ### Mobile Support - Government ID Verification
