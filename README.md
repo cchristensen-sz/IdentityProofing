@@ -202,7 +202,7 @@ Each will be outlined below.
 
 - Once an acceptable image has been captured, **Click 'Save and Next'**
 
-- **Capture Seflie** by following on screen prompts.  **Click 'Capture Using Your Phone Camera'**. Once captured, if the image is acceptabale you will be redirected back to the browswer window where the ID Proofing process was initiated.
+- **Capture Seflie** by following on screen prompts.  **Click 'Capture Using Your Phone Camera'**. Once captured if the image is acceptable, you will be redirected back to the browser window where the ID Proofing process was initiated.
 <img src="https://github.com/cchristensen-sz/IdentityProofing/blob/1e64e168db0311151a92167f2bed709fddabf636/img/Selfie%20Start.png" width="30%"/>
 
 - Smile!
