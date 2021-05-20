@@ -101,7 +101,7 @@ Identity Proofing will either be initiated as part of an onboarding workflow or 
 
 
 
-- **Select your country**
+- **Select your country** of residence.  This is the country where your cell phone is registered and hopefully also the country that your identification was issued by.
 
 <img src="https://github.com/cchristensen-sz/IdentityProofing/blob/ea442120a1cf09dfb35cfcd1175db7e312d753e9/img/Screen%20Shot%202021-05-10%20at%208.41.59%20PM.png" width="30%"/>
 
