@@ -189,11 +189,11 @@ Each will be outlined below.
 <img src="https://github.com/cchristensen-sz/IdentityProofing/blob/848a7d5add8d1fda1dae36edfe3130373e61d927/img/Allow%20Camera%20Access.jpg" width="30%"/>
 
 
-- **Capture Image**.  If you are using your drivers license or ID this will be the image of the front of your ID.  If you are using your passport this will be the imgage the photo page.  Follow on screen prompts to properly align the image and verify image meets requirements before submitting.  If your image does not meet one of the requirements please review the [Tips and Tricks](https://github.com/cchristensen-sz/IdentityProofing/blob/cac396a002e52069745c8147ce5fbf471945b1ac/img/tips_and_tricks.pdf) document and try again.  Once all requirements have been met, **Click 'Save and Next'**
+- **Capture Image**.  If you choose to use a drivers license or ID this will be the image of the front of your ID.  If you are using your passport this will be the image of the photo page.  Follow on screen prompts to properly align the image and verify image meets requirements before submitting.  If your image does not meet one of the requirements please review the [Tips and Tricks](https://github.com/cchristensen-sz/IdentityProofing/blob/cac396a002e52069745c8147ce5fbf471945b1ac/img/tips_and_tricks.pdf) document and try again.  Once all requirements have been met, **Click 'Save and Next'**
 <img src="https://github.com/cchristensen-sz/IdentityProofing/blob/0b5c9132b7c0bf4eb5eff3fdd8bf766fa171059c/img/Front%20of%20ID.png" width="30%"/> 
 
 
-- If you used an ID or a drivers license, you will now begin the process of capturing the image of the back of the document. **CLick on 'Capture Using Your Browser Camera'** to take the second photo.
+- If you choose to use an ID or a drivers license, you will now begin the process of capturing the image of the back of the document. **CLick on 'Capture Using Your Browser Camera'** to take the second photo.
 <img src="https://github.com/cchristensen-sz/IdentityProofing/blob/38de26c7dace4fa4754aff8db93700bd35399abe/img/Back%20of%20ID%20start.png" width="30%"/>
 
 - Capture the image with on screen guidance
@@ -224,7 +224,7 @@ Each will be outlined below.
 -  If you pass the mobile match workflow, your verification is complete
 -  If SecZetta is unable to verify your identity via Mobile Match you will proceed to the [Government ID Verification workflow](https://github.com/cchristensen-sz/IdentityProofing#government-id-verification)
 <img src="https://github.com/cchristensen-sz/IdentityProofing/blob/d4b40be586fda0346f7c73c55c27902b125a8096/img/Unable%20to%20prove%20your%20Identity.png" width="30%"/>
--  Once completed, you will be returned to the browser you inititated proofing from and your results will be displayed.
+-  Once completed you will be returned to the browser you initiated proofing from, and your results will be displayed.
 
 ## Troubleshooting 
 
