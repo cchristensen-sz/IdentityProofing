@@ -119,9 +119,7 @@ Each will be outlined below.
 
 - **Enter your mobile phone number and home address** and then **click on Confirm Information**
 
-<img src="https://github.com/cchristensen-sz/IdentityProofing/blob/d4b40be586fda0346f7c73c55c27902b125a8096/img/Enter%20Address%20and%20Phone.png" width="30%"/>
-
-
+<img src="https://raw.githubusercontent.com/cchristensen-sz/IdentityProofingd4b40be586fda0346f7c73c55c27902b125a8096/img/Enter%20Address%20and%20Phone.png" width="30%"/>
 
 - **Select SMS or Voice** for your preferred method to receive a one time PIN
 
